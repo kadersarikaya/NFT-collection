@@ -1,15 +1,9 @@
-# Basic Sample Hardhat Project
+# NFT Mining Site
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+## Techs: 
+`Nextjs` `Ethersjs` `Alchemy` `Solidity` `Openzeppelin` 
 
-Try running some of the following tasks:
+## Demo: 
+https://www.loom.com/share/2375eb75ed52460ea82cbfe093e502c3
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+
